@@ -1,5 +1,3 @@
-Site Criado durante situação de aprenzidado do meu curso de assistente técnico em TI.
-
-Apresenta 3 linguagens, a página em alemão foi criada, pois o professor já teve um trabalho muito complicaod na alemã e resolvi brincar com ele.
+Site criado durante situação de aprendizagem do curso Industrial em Assistente Técnico em TI
 
 Foram usados: HTML5, CSS3, JavaScript e BootStrap
